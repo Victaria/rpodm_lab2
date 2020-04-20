@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">rpodm_2</string>
+    <string-array name="screen_array">
+        <item>Yandex</item>
+        <item>Onliner</item>
+        <item>Tut.by</item>
+    </string-array>
+</resources>
